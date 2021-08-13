@@ -12,7 +12,7 @@ You can contact me on email - k4dzi3@gmail.com
 - 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong>
 - 🔍 I’m looking for career opportunities in <strong>web development</strong>
 - 💬 Feel free to discuss with me about <strong>JavaScript, Python, HTML, CSS</strong>
-- 👀 My Personal Portfolio - tomorrows.cz, wodasign.net. More is part of a graphic design
+- 👀 My Personal Portfolio - [tomorrows.cz](https://524w.eu/), [wodasign.net](wodasign.net). More is part of a graphic design
 
 ### Tools I work upon : 🛠
 
