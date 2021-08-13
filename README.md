@@ -14,6 +14,10 @@ You can contact me on email - k4dzi3@gmail.com
 - 💬 Feel free to discuss <strong>JavaScript, Python, HTML, CSS</strong> with me.
 - 👀 My Personal Portfolio - [tomorrows.cz](https://524w.eu/), [wodasign.net](https://www.wodasign.net/en/). More is part of a graphic design.
 
-### Tools I work with : 🛠
+### Tools I work with 🛠
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
+### A little about me 💬
+
+I graduated from the Industrial School, majoring in <strong>IT technology, programming and web design.</strong> I'm not afraid to learn new things. I prefer working in a team more, but I can finish my work as an individual. I am a person who can keep a cool head even in stressful situations. I have very good communication skills, knowledge of English and Russian. After four years of studying and one year of experience in JavaScript, I learned to solve complicated problems in various projects, which gave me flexibility in finding the optimal solution.
