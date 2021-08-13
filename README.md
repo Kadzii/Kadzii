@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Kadzii😉, Jr. Front-End Developer 👨🏻‍💻 from Prague. I'm an open-source profession and mostly develop in JavaScript.
+I'm Kadzii😉, Jr. Front-End Developer 👨🏻‍💻 from Prague. I'm a junior programmer mostly developing in JavaScript.
 
 ### How to reach me: 
 You can contact me on email - k4dzi3@gmail.com
