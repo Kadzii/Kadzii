@@ -7,12 +7,12 @@ You can contact me on email - k4dzi3@gmail.com
 
 ### Current Status Quo:
 
-- 💼 I’m in pursuit of a <strong>fun working enviroment full of people that are fun to be around</strong>.
+- 💼 I’m in pursuit of a <strong>stable working enviroment full of people that are fun to be around</strong>.
 - 🔭 I’m currently working on <strong>Discord bot - Malwy</strong> and <strong>Website editing</strong>
 - 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong>
 - 🔍 I’m looking for career opportunities in <strong>web development</strong>
 - 💬 Feel free to discuss with me about <strong>JavaScript, Python, HTML, CSS</strong>
-- 👀 See my [Personal Portfolio](link) to get more info
+- 👀 My Personal Portfolio - tomorrows.cz, wodasign.net. More is part of a graphic design
 
 ### Tools I work upon : 🛠
 
