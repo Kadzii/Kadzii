@@ -7,7 +7,7 @@ You can contact me on email - k4dzi3@gmail.com
 
 ### Current Status Quo:
 
-- 💼 I’m in pursuit of <strong>becoming a JavaScript front-end developer</strong>.
+- 💼 I’m in pursuit of <strong>becoming a JavaScript developer</strong>.
 - 🔭 I’m currently working on <strong>Discord bot - Malwy</strong> and <strong>Website editing</strong>.
 - 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong>.
 - 🔍 I’m looking for career opportunities in <strong>Front-end development</strong>.
