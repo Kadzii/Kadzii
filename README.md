@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Kadzii😉, Jr. Front-End Developer 👨🏻‍💻 from Prague. I'm a junior programmer mostly developing in JavaScript.
+I'm Kadzii😉, Jr. Back-End Developer 👨🏻‍💻 from Prague. I'm a junior programmer mostly developing in JavaScript.
 
 ### How to reach me: 
 You can contact me on email - k4dzi3@gmail.com
@@ -8,10 +8,10 @@ You can contact me on email - k4dzi3@gmail.com
 ### Current Status Quo:
 
 - 💼 I’m in pursuit of <strong>becoming a JavaScript developer</strong>.
-- 🔭 I’m currently working on <strong>Discord bot - Malwy</strong> and <strong>Website editing</strong>.
-- 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>Python</strong>.
-- 🔍 I’m looking for career opportunities in <strong>Front-end development</strong>.
-- 💬 Feel free to discuss <strong>JavaScript, Python, HTML, CSS</strong> with me.
+- 🔭 I’m currently working on <strong>chat app</strong> and <strong>Website editing</strong>.
+- 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>PHP</strong>.
+- 🔍 I’m Coding for Czech Republic National Security Center in <strong>PHP</strong>.
+- 💬 Feel free to discuss <strong>JavaScript, PHP, HTML, CSS</strong> with me.
 - 👀 My Personal Portfolio - [tomorrows.cz](https://524w.eu/), [wodasign.net](https://www.wodasign.net/en/). More is part of a graphic design.
 
 ### Tools I work with 🛠
