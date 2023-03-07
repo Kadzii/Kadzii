@@ -7,7 +7,7 @@ You can contact me on email - k4dzi3@gmail.com
 
 ### Current Status Quo:
 
-- 💼 I’m in pursuit of <strong>becoming a JavaScript developer</strong>.
+- 💼 I’m in pursuit of <strong>becoming a PHP developer</strong>.
 - 🔭 I’m currently working on <strong>chat app</strong> and <strong>Website editing</strong>.
 - 🌱 I’m currently learning <strong>JavaScript</strong> and <strong>PHP</strong>.
 - 🔍 I’m Coding for Czech Republic National Security Center in <strong>PHP</strong>.
